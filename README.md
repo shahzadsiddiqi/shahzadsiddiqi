@@ -1,34 +1,112 @@
-![logo](https://github.com/shahzadsiddiqi/shahzadsiddiqi/blob/main/Black%20and%20White%20Modern%20Professional%20Sales%20and%20Marketing%20Profile%20LinkedIn%20Banner.png)
+![Banner](https://github.com/shahzadsiddiqi/shahzadsiddiqi/blob/main/Black%20and%20White%20Modern%20Professional%20Sales%20and%20Marketing%20Profile%20LinkedIn%20Banner.png)
+
 <h1 align="center">Hi 👋, I'm Shahzad Faisal</h1>
-<h3 align="center">ML Engineer/Data Scientist</h3>
-<img align="right" alt="coding" width="400" src="https://cdn-images-1.medium.com/v2/resize:fill:1600:480/gravity:fp:0.5:0.4/0*vtLSZJpcGTK-iJ8T.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shahzadsiddiqi&label=Profishahzadsiddiqile%20views&color=0e75b6&style=flat" alt="shahzadsiddiqi" /> </p>
+<h3 align="center">Machine Learning Engineer | Data Scientist | Educator | Researcher</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahzadsiddiqi" alt="shahzadsiddiqi" /></a> </p>
-
-- I am Currently Serving as an Assistant Professor at Comsats University,Islamabad Attock Campus
-- [Quality Prediction of Wearable Apps in the Google Play Store](https://scholar.google.com.pk/citations?view_op=view_citation&hl=en&user=RFg6mUEAAAAJ&citation_for_view=RFg6mUEAAAAJ:70eg2SAEIzsC)
-
-- 👨‍💻 All of my projects are available at [https://github.com/shahzadsiddiqi](https://github.com/shahzadsiddiqi)
-
-- 📝 I regularly write articles on [https://scholar.google.com.pk/citations?user=RFg6mUEAAAAJ&hl=en](https://scholar.google.com.pk/citations?user=RFg6mUEAAAAJ&hl=en)
-
-- 💬 Ask me about **Deep Learning,Data Science,Machine Learning**
-
-- 📫 How to reach me **https://www.linkedin.com/in/muhammad-shahzad-faisal-88472417/**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/muhammad-shahzad-faisal-88472417/](https://www.linkedin.com/in/muhammad-shahzad-faisal-88472417/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/muhammad-shahzad-faisal-88472417/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammad-shahzad-faisal-88472417/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Experienced+ML+Engineer+%7C+Data+Scientist;Passionate+Educator+%7C+Researcher;Enthusiast+in+AI%2C+DL%2C+and+DS;Welcome+to+my+GitHub+Profile!">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahzadsiddiqi&show_icons=true&locale=en&layout=compact" alt="shahzadsiddiqi" /></p>
+### 🏷️ About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahzadsiddiqi&show_icons=true&locale=en" alt="shahzadsiddiqi" /></p>
+- 🔬 **Current Role:** Assistant Professor, Comsats University, Islamabad (Attock Campus)  
+- 📚 **Research Interests:** Deep Learning, Machine Learning, Data Science  
+- 🖋️ **Publications:** [Google Scholar Profile](https://scholar.google.com.pk/citations?user=RFg6mUEAAAAJ&hl=en)  
+- 🌟 **Highlighted Research Work:**  
+  - [Quality Prediction of Wearable Apps in Google Play Store](https://scholar.google.com.pk/citations?view_op=view_citation&hl=en&user=RFg6mUEAAAAJ&citation_for_view=RFg6mUEAAAAJ:70eg2SAEIzsC)  
+  - Other impactful contributions in data analysis and AI advancements  
+- 🧠 **Skills & Expertise:** Machine Learning, Data Science, Deep Learning  
+- 🌱 **Currently Exploring:** Generative AI and its applications in education and healthcare  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahzadsiddiqi&" alt="shahzadsiddiqi" /></p>
+---
+
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/muhammad-shahzad-faisal-88472417" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+  </a>
+  <a href="mshahzadfaisal@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
+  </a>
+  <a href="https://github.com/shahzadsiddiqi" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+  </a>
+</p>
+
+---
+
+### 💻 Technical Skills
+
+#### **Programming Languages:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+#### **Frameworks & Libraries:**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+#### **Databases:**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+#### **Others:**
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+---
+
+### 🚀 My Projects
+#### 📂 Featured Projects:
+- [**AI-Based Stock Market Prediction**](https://github.com/shahzadsiddiqi/ai-stock-prediction)  
+  Predicting stock prices using machine learning techniques.  
+
+- [**Sentiment Analysis on Social Media**](https://github.com/shahzadsiddiqi/sentiment-analysis)  
+  Analyzing public sentiments through NLP models.  
+
+#### 🔗 Explore All My Projects: [GitHub Portfolio](https://github.com/shahzadsiddiqi)
+
+---
+
+### 📝 Blogs & Articles
+- 🖋️ Regularly publish insights on AI and ML advancements.  
+- Explore my articles on [Google Scholar](https://scholar.google.com.pk/citations?user=RFg6mUEAAAAJ&hl=en).
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shahzadsiddiqi&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shahzadsiddiqi&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahzadsiddiqi&theme=radical" alt="Streak Stats" />
+</p>
+
+---
+
+### 🏆 Achievements & Certifications
+- 🌟 **Certified Data Scientist**  
+- 🏅 **Kaggle Expert in Data Science**  
+- 🎖️ **Published over 15 research papers available on Google Scholar**  
+
+---
+
+### 🌟 Fun Fact
+- 👩‍🏫 I love making complex AI, ML, DL, and Data Science topics easy to understand—and even fun!  
+- 🤖 I get excited every time I see an algorithm come to life in the classroom.  
+- 📚 I enjoy chatting with experts and sharing new insights with my students, as if every conversation is a mini-lesson.  
+- 💡 I believe every student has the potential to become the next big innovator in tech—sometimes it’s just about finding the right spark!  
+
+---
+
+### 📫 Get in Touch
+<p align="center">
+  Feel free to reach out for collaborations, research discussions, or any exciting AI projects!
+</p>
