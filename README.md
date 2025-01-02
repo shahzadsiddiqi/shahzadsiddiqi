@@ -11,7 +11,6 @@
 
 ### 🏷️ About Me
 
-- 🔬 **Current Role:** Assistant Professor, Comsats University, Islamabad (Attock Campus)  
 - 📚 **Research Interests:** Deep Learning, Machine Learning, Data Science  
 - 🖋️ **Publications:** [Google Scholar Profile](https://scholar.google.com.pk/citations?user=RFg6mUEAAAAJ&hl=en)  
 - 🌟 **Highlighted Research Work:**  
@@ -47,10 +46,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 #### **Frameworks & Libraries:**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+Hugging Face Transformers LLMeBench TensorFlow PyTorch Scikit-Learn Pandas
 
 #### **Databases:**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
