@@ -1,5 +1,3 @@
-![Banner](https://github.com/shahzadsiddiqi/shahzadsiddiqi/blob/main/Black%20and%20White%20Modern%20Professional%20Sales%20and%20Marketing%20Profile%20LinkedIn%20Banner.png)
-
 <h1 align="center">Hi 👋, I'm Shahzad Faisal</h1>
 <h3 align="center">Machine Learning Engineer | Data Scientist | Educator | Researcher</h3>
 
@@ -14,7 +12,7 @@
 - 📚 **Research Interests:** Deep Learning, Machine Learning, Data Science  
 - 🖋️ **Publications:** [Google Scholar Profile](https://scholar.google.com.pk/citations?user=RFg6mUEAAAAJ&hl=en)  
 - 🌟 **Highlighted Research Work:**  
-  - [Quality Prediction of Wearable Apps in Google Play Store](https://scholar.google.com.pk/citations?view_op=view_citation&hl=en&user=RFg6mUEAAAAJ&citation_for_view=RFg6mUEAAAAJ:70eg2SAEIzsC)  
+  - [Efficient Fake News Detection Mechanism Using Enhanced Deep Learning Model](https://www.mdpi.com/2076-3417/12/3/1743)
   - Other impactful contributions in data analysis and AI advancements  
 - 🧠 **Skills & Expertise:** Machine Learning, Data Science, Deep Learning  
 - 🌱 **Currently Exploring:** Generative AI and its applications in education and healthcare  
@@ -45,14 +43,12 @@
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-#### **Frameworks & Libraries:**
-Hugging Face | Transformers | LLMeBench | TensorFlow | PyTorch | Scikit-Learn | Pandas
+#### **Frameworks | Libraries:**
+<h3>Hugging Face Transformers | LLMeBench | TensorFlow | PyTorch | Scikit-Learn | Pandas </h3></h3> 
 
-#### **Databases:**
+#### **Databases | APIs**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-#### **Others:**
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -90,7 +86,7 @@ Hugging Face | Transformers | LLMeBench | TensorFlow | PyTorch | Scikit-Learn | 
 ### 🏆 Achievements & Certifications
 - 🌟 **Certified Data Scientist**  
 - 🏅 **Kaggle Expert in Data Science**  
-- 🎖️ **Published over 15 research papers available on Google Scholar**  
+- 🎖️ **Published research papers in reputed Journals and conferences available on Google Scholar**  
 
 ---
 
