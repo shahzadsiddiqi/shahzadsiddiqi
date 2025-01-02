@@ -59,7 +59,7 @@
 
    
 
-#### 🔗 Explore All My Projects: [GitHub Portfolio](https://github.com/shahzadsiddiqi)
+#### 🔗 Explore Machine Learning /NLP Projects: [GitHub Portfolio](https://github.com/shahzadsiddiqi/ML-Deep-Learning)
 
 ---
 
