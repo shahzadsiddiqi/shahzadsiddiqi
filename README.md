@@ -42,7 +42,7 @@
 <h3>Python | R Programming | Java</h3>
 
 #### **Frameworks | Libraries:**
-<h3>Hugging Face Transformers | LLMeBench | TensorFlow | PyTorch | Scikit-Learn | Pandas </h3></h3> 
+<h3>Hugging Face Transformers | LLMeBench | BERT | GPT | T5 | TensorFlow | PyTorch | Scikit-Learn | FastAPI/Flask </h3> 
 
 #### **Databases | APIs**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
