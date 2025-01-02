@@ -13,6 +13,7 @@
 - 🖋️ **Publications:** [Google Scholar Profile](https://scholar.google.com.pk/citations?user=RFg6mUEAAAAJ&hl=en)  
 - 🌟 **Highlighted Research Work:**  
   - [Efficient Fake News Detection Mechanism Using Enhanced Deep Learning Model](https://www.mdpi.com/2076-3417/12/3/1743)
+  - [Prediction of Movie Quality via Adaptive Voting Classifier](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9845402)
   - Other impactful contributions in data analysis and AI advancements  
 - 🧠 **Skills & Expertise:** Machine Learning, Data Science, Deep Learning  
 - 🌱 **Currently Exploring:** Generative AI and its applications in education and healthcare  
@@ -38,6 +39,8 @@
 ### 💻 Technical Skills
 
 #### **Programming Languages:**
+<h3>Python | R Programming | Java</h3>
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
