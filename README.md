@@ -60,11 +60,10 @@
 
 ### 🚀 My Projects
 #### 📂 Featured Projects:
-- [**AI-Based Stock Market Prediction**](https://github.com/shahzadsiddiqi/ai-stock-prediction)  
-  Predicting stock prices using machine learning techniques.  
+- [**EU Translator | Machine Translation using LLM**](https://github.com/shahzadsiddiqi/ML-Deep-Learning/tree/main/E-U%20translator/src)
+- [**QA Summarizer using LLM**](https://github.com/shahzadsiddiqi/ML-Deep-Learning/tree/main/Answer%20QUestion%20Summerizer%20Through%20BERT)
 
-- [**Sentiment Analysis on Social Media**](https://github.com/shahzadsiddiqi/sentiment-analysis)  
-  Analyzing public sentiments through NLP models.  
+   
 
 #### 🔗 Explore All My Projects: [GitHub Portfolio](https://github.com/shahzadsiddiqi)
 
