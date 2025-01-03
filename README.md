@@ -80,17 +80,9 @@
 ---
 
 ### 🏆 Achievements & Certifications
-- 🌟 **Certified Data Scientist**  
+- 🌟 **Certified R-Programming Data Scientist**  
 - 🏅 **Kaggle Expert in Data Science**  
 - 🎖️ **Published research papers in reputed Journals and conferences available on Google Scholar**  
-
----
-
-### 🌟 Fun Fact
-- 👩‍🏫 I love making complex AI, ML, DL, and Data Science topics easy to understand—and even fun!  
-- 🤖 I get excited every time I see an algorithm come to life in the classroom.  
-- 📚 I enjoy chatting with experts and sharing new insights with my students, as if every conversation is a mini-lesson.  
-- 💡 I believe every student has the potential to become the next big innovator in tech—sometimes it’s just about finding the right spark!  
 
 ---
 
