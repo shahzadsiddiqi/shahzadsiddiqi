@@ -9,7 +9,7 @@
 
 ### 🏷️ About Me
 
-- 📚 **Research Interests:** Deep Learning, Machine Learning, Data Science  
+- 📚 **Research Interests:** Deep Learning, Machine Learning, Data Science, NLP, Information Reterival
 - 🖋️ **Publications:** [Google Scholar Profile](https://scholar.google.com.pk/citations?user=RFg6mUEAAAAJ&hl=en)  
 - 🌟 **Highlighted Research Work:**  
   - [Efficient Fake News Detection Mechanism Using Enhanced Deep Learning Model](https://www.mdpi.com/2076-3417/12/3/1743)
