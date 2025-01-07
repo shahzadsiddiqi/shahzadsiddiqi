@@ -17,7 +17,7 @@
   - Other impactful contributions in data analysis and AI advancements  
 - 🧠 **Skills & Expertise:** Machine Learning, Data Science, Deep Learning  
 - 🌱 **Currently Exploring:** Generative AI and its applications in education and healthcare
-- <a href="mailto:someone@example.com">Send email</a> 
+- <a href="mailto:mshahzadfaisal@gmail.com">Email me</a> 
 
 ---
 
