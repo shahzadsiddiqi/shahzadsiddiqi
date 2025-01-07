@@ -16,7 +16,8 @@
   - [Prediction of Movie Quality via Adaptive Voting Classifier](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9845402)
   - Other impactful contributions in data analysis and AI advancements  
 - 🧠 **Skills & Expertise:** Machine Learning, Data Science, Deep Learning  
-- 🌱 **Currently Exploring:** Generative AI and its applications in education and healthcare  
+- 🌱 **Currently Exploring:** Generative AI and its applications in education and healthcare
+- <a href="mailto:someone@example.com">Send email</a> 
 
 ---
 
