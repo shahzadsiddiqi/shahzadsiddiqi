@@ -27,7 +27,7 @@
   <a href="https://linkedin.com/in/muhammad-shahzad-faisal-88472417" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
   </a>
-  <a href="mshahzadfaisal@gmail.com" target="_blank">
+  <a href="mailto:mshahzadfaisal@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
   </a>
   <a href="https://github.com/shahzadsiddiqi" target="_blank">
