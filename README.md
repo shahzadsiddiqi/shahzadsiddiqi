@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Shahzad Faisal</h1>
-<h3 align="center">Machine Learning Engineer | Data Scientist | Educator | Researcher</h3>
+<h1 align="center">Dr. Muhammad Shahzad Faisal</h1>
+<h3 align="center"> ML Enginner | Data Scientist | Educator | Researcher</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Experienced+ML+Engineer+%7C+Data+Scientist;Passionate+Educator+%7C+Researcher;Enthusiast+in+AI%2C+DL%2C+and+DS;Welcome+to+my+GitHub+Profile!">
